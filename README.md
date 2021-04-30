@@ -6,8 +6,8 @@
 
 ## 바로가기
 * [DeepSpeech](DeepSpeech)
-* [SpeakerRecognition](#SpeakerRecog)
-* [KOR-STT-API](#api)
+* [SpeakerRecognition](SpeakerRecognition)
+* [KOR-STT-API](STT-API)
 
 ---
 
@@ -36,4 +36,4 @@ $ python mfcc_gmm.py
 ---
 
 ## <a name="api">한국어 음성인식 API</a>
-## 구글, 카카오, 네이버, 왓슨, ETRI 등
+### 구글, 카카오, 네이버, 왓슨, ETRI 등
